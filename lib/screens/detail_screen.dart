@@ -49,8 +49,8 @@ class _DetailScreenState extends State<DetailScreen> {
           content: Text(
             'Has solicitado $_quantity unidad(es) de '
             '${widget.producto.nombre}.\n\n'
-            'Total ficticio: \$${total.toStringAsFixed(2)} MXN\n\n'
-            'Esto es una demostración. No se ha realizado ninguna compra real.',
+            'Total: \$${total.toStringAsFixed(2)} MXN\n\n'
+            'Esto es una demostración.',
           ),
           actions: [
             FilledButton(
@@ -264,7 +264,7 @@ class _DetailScreenState extends State<DetailScreen> {
             ),
             const SizedBox(height: 10),
             const Text(
-              'Demostración académica: no se procesan pagos ni pedidos reales.',
+              'Demostración académica.',
               textAlign: TextAlign.center,
               style: TextStyle(fontSize: 11, color: Colors.black45),
             ),

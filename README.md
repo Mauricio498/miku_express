@@ -2,7 +2,14 @@
 
 ## Flujo de pantallas
 
-
+### Splash Screen
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/a187d669-74e2-4fb1-8af0-78fa33b007b8" />
+### Home Screen
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/9451dda7-ede5-497e-a7e2-3fb81a8c02c9" />
+### Detail Screen
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/56789cff-1960-4d75-a7bf-c2852972b019" />
+### Prueba de interactibilidad
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/5b27e22b-333a-4e63-8e45-90fefc92a505" />
 
 ## Funciones simuladas
 - Splash con transición después de 3 segundos.
